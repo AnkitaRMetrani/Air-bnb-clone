@@ -1,0 +1,29 @@
+.Hero{
+    padding: 20px;
+    padding-bottom: 0%;
+    display: flex;
+    flex-direction: column;
+    /*background-color: rgba(210, 252, 238, 0.979);*/
+    
+}
+.grid{
+    width: 70%;
+    height: 350px;
+    align-self: center;
+}
+.Hero > h1 {
+    font-family: 'popins';
+    font-weight: bolder;
+    font-size: 30px;
+    text-overflow: ellipsis;
+    padding-left: 5%;
+    padding-top: -20px;
+    margin-bottom: 16px;
+
+}
+.Hero > p {
+    margin-top: 0%;
+    padding-left: 5%;
+    max-width: 300px;
+
+}
