@@ -2,6 +2,7 @@ import React from 'react'
 
 export const Hell = () => {
   return (
-    <div>Hell Morning This is for new branch</div>
+    <div>Hell Morning This is for new branch <p>New branch published</p></div>
+
   )
 }
